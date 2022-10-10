@@ -5,4 +5,4 @@ pysondb~=1.6.7
 bcrypt==4.0.0
 flask_sqlalchemy==2.5.1
 psycopg2-binary
-Werkzeug~=2.2.2x
+Werkzeug
